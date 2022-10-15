@@ -22,7 +22,7 @@ for index, row in races.iterrows():
         wet_races_year.append(races.iloc[index]['year'])
 ```
 
-This, however, does not greatly affect the results of the analysis because I believe that the results show that rain is becoming more a more frequent element in F1 and therefore more thorough and repeatable systems should be put into place in order to ensure that race events can ran as scheduled while still being safe for the drivers.
+This, however, does not greatly affect the results of the analysis because I believe that the results show that rain is becoming more a more frequent element in F1 and therefore more thorough and repeatable systems should be put into place in order to ensure that race events can run as scheduled while still being safe for the drivers.
 
 Currently, I foresee two main issues with this methodology that might affect the data. Firstly, just because the word 'wet' or 'rain' may appear on the grand prix wikipedia page, this does not necessarily mean that rainfall occurred while F1 cars were on track that weekend. Secondly, I believe that the more recent the grand prix is , the longer and more complex its wikipedia page is. This increases the likelihood that the words 'wet' or 'rain' appear on the page.
 
