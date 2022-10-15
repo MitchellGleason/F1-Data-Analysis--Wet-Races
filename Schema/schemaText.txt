@@ -1,0 +1,161 @@
+circuits
+-
+circuitId int PK
+circuitRef varchar(255)
+name varchar(255)
+location varchar(255) NULL
+country varchar(255) NULL
+lat float NULL
+lng float NULL
+alt int NULL
+url varchar(255) UNIQUE
+
+constructorResults
+-
+constructorResultsID int PK
+raceId int FK >-< races.raceId
+constructorId int FK >-< constructors.constructorId
+points float NULL
+status varchar(255) NULL
+
+constructorStandings
+-
+constructorStandingsId int PK
+raceId int FK >-< races.raceId
+constructorId int FK >-< constructors.constructorId
+points float
+position int NULL
+positionText varchar(255) NULL
+wins int
+
+constructors
+-
+constructorId int PK
+constructorRef varchar(255)
+name varchar(255) UNIQUE
+nationality varchar(255) NULL
+url varchar(255)
+
+driverStandings
+-
+driverStandingsId int PK
+raceId int FK >-< races.raceId
+driverId int FK >-< drivers.driverId
+points float
+position int NULL
+positionText varchar(255) NULL
+wins int
+
+drivers
+-
+driverId int PK
+driverRef varchar(255)
+number int NULL
+code varchar(3) NULL
+forename varchar(255)
+surname varchar(255)
+dob date NULL
+nationality varchar(255) NULL
+url varchar(255) UNIQUE
+
+lapTimes
+-
+raceId int PK FK >-< races.raceId
+driverId int PK FK >-< drivers.driverId
+lap int PK
+position int NULL
+time varchar(255) NULL
+milliseconds int NULL
+
+pitStops
+-
+raceId int PK FK >-< races.raceId
+driverId int PK FK >-< drivers.driverId
+stop int PK
+lap int
+time time
+duration varchar(255) NULL
+milliseconds int NULL
+
+qualifying
+-
+qualifyId int PK
+raceId int FK >-< races.raceId
+driverId int FK >-< drivers.driverId
+constructorId int FK >-< constructors.constructorId
+number int
+position int NULL
+q1 varchar(255) NULL
+q2 varchar(255) NULL
+q3 varchar(255) NULL
+
+races
+-
+raceId int PK
+year int FK >-< seasons.year
+round int
+circuitId int FK >-< circuits.circuitId
+name varchar(255)
+date date
+time time NULL
+url varchar(255) NULL UNIQUE
+fp1_date date NULL
+fp1_time time NULL
+fp2_date date NULL
+fp2_time time NULL
+fp3_date date NULL
+fp3_time time NULL
+quali_date date NULL
+quali_time time NULL
+sprint_date date NULL
+sprint_time time NULL
+
+results
+-
+resultId int PK
+raceId int FK >-< races.raceId
+driverId int FK >-< drivers.driverId
+constructorId int FK >-< constructors.constructorId
+number int NULL
+grid int
+position int NULL
+positionText varchar(255)
+positionOrder int
+points float
+laps int
+time varchar(255) NULL
+milliseconds int NULL
+fastestLap int NULL
+rank int NULL
+fastestLapTime varchar(255) NULL
+fastedLapSpeed varchar(255) NULL
+statusId int FK >-< status.statusId
+
+sprint_results
+-
+sprintResultId int PK
+raceId int FK >-< races.raceId
+driverId int FK >-< drivers.driverId
+constructorId int FK >-< constructors.constructorId
+number int NULL
+grid int
+position int NULL
+positionText varchar(255)
+positionOrder int
+points float
+laps int
+time varchar(255) NULL
+milliseconds int NULL
+fastestLap int NULL
+fastestLapTime varchar(255) NULL
+statusId int FK >-< status.statusId
+
+seasons
+-
+year int PK
+url varchar(255) UNIQUE
+
+status
+-
+statusId int PK
+status varchar(255)
