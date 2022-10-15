@@ -9,7 +9,8 @@ Prompted by the recent number of rain events in the 2022 F1 season, I was curiou
 In order to determine which of the 1079 races in the Ergast database can be classified as 'wet', I iterated through the 'races' dataframe and retrieved the html text from the wikipedia page for each event. Unfortunately, only a certain number of the grand prix wikipedia pages have the specific weather description in the info box. Because of this I have decided to instead simply search the entire wikipedia page for either of the word 'wet' or 'rain'. This means that all of the data is representative of race weekends that likely experienced rain during track times rather than the grand prix itself.
 
 ```
-#I am certain that this code can be refactored to run faster (currently takes more than 4 minutes). I have not yet put in the time to do so.
+#I am certain that this code can be refactored to run faster
+#(currently takes more than 4 minutes). I have not yet put in the time to do so.
 
 for index, row in races.iterrows():
     wiki = requests.get(races.iloc[index]['url']).text
