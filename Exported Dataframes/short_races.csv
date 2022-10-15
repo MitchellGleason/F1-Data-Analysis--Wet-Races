@@ -1,73 +1,73 @@
-,year,name,race_id
-0,2009,Malaysian Grand Prix,2
-1,2008,Monaco Grand Prix,23
-2,2007,Spanish Grand Prix,39
-3,2007,British Grand Prix,44
-4,2006,Australian Grand Prix,55
-5,2005,Australian Grand Prix,71
-6,2005,European Grand Prix,77
-7,2004,Monaco Grand Prix,95
-8,2004,German Grand Prix,101
-9,2003,Brazilian Grand Prix,110
-10,2003,Austrian Grand Prix,113
-11,2001,Malaysian Grand Prix,142
-12,2001,Belgian Grand Prix,154
-13,1999,Australian Grand Prix,175
-14,1999,European Grand Prix,188
-15,1998,French Grand Prix,198
-16,1998,Japanese Grand Prix,206
-17,1997,Monaco Grand Prix,211
-18,1997,Spanish Grand Prix,212
-19,1997,Canadian Grand Prix,213
-20,1997,British Grand Prix,215
-21,1996,Monaco Grand Prix,229
-22,1996,Japanese Grand Prix,239
-23,1995,Canadian Grand Prix,245
-24,1994,San Marino Grand Prix,259
-25,1994,Japanese Grand Prix,271
-26,1993,Australian Grand Prix,288
-27,1992,French Grand Prix,296
-28,1991,United States Grand Prix,305
-29,1991,Mexican Grand Prix,310
-30,1991,Australian Grand Prix,320
-31,1990,Portuguese Grand Prix,333
-32,1989,San Marino Grand Prix,357
-33,1989,Monaco Grand Prix,358
-34,1989,Australian Grand Prix,371
-35,1988,Brazilian Grand Prix,372
-36,1985,Portuguese Grand Prix,421
-37,1985,British Grand Prix,427
-38,1984,Monaco Grand Prix,441
-39,1984,Dallas Grand Prix,444
-40,1984,British Grand Prix,445
-41,1981,Brazilian Grand Prix,484
-42,1981,Belgian Grand Prix,487
-43,1981,Canadian Grand Prix,496
-44,1978,Italian Grand Prix,540
-45,1975,Spanish Grand Prix,579
-46,1975,Monaco Grand Prix,580
-47,1975,Austrian Grand Prix,587
-48,1974,Brazilian Grand Prix,591
-49,1974,Spanish Grand Prix,593
-50,2012,Hungarian Grand Prix,870
-51,2012,Singapore Grand Prix,873
-52,2014,Australian Grand Prix,900
-53,2014,Chinese Grand Prix,903
-54,2014,Singapore Grand Prix,913
-55,2014,Japanese Grand Prix,914
-56,2015,Hungarian Grand Prix,936
-57,2015,Belgian Grand Prix,937
-58,2016,Australian Grand Prix,948
-59,2017,Australian Grand Prix,969
-60,2017,Russian Grand Prix,972
-61,2017,British Grand Prix,978
-62,2017,Singapore Grand Prix,982
-63,2018,Canadian Grand Prix,995
-64,2019,German Grand Prix,1020
-65,2019,Japanese Grand Prix,1026
-66,2021,Bahrain Grand Prix,1052
-67,2021,Belgian Grand Prix,1063
-68,2022,Monaco Grand Prix,1080
-69,2022,Singapore Grand Prix,1091
-70,2022,Japanese Grand Prix,1092
-71,2022,United States Grand Prix,1093
+,year,name,race_id,reason for cancel
+0,2009,Malaysian Grand Prix,2,Rain
+1,2008,Monaco Grand Prix,23,Rain
+2,2007,Spanish Grand Prix,39,Rain
+3,2007,British Grand Prix,44,Not Rain
+4,2006,Australian Grand Prix,55,Not Rain
+5,2005,Australian Grand Prix,71,Rain
+6,2005,European Grand Prix,77,Not Rain
+7,2004,Monaco Grand Prix,95,Not Rain
+8,2004,German Grand Prix,101,Not Rain
+9,2003,Brazilian Grand Prix,110,Rain
+10,2003,Austrian Grand Prix,113,Rain
+11,2001,Malaysian Grand Prix,142,Rain
+12,2001,Belgian Grand Prix,154,Rain
+13,1999,Australian Grand Prix,175,Not Rain
+14,1999,European Grand Prix,188,Rain
+15,1998,French Grand Prix,198,Not Rain
+16,1998,Japanese Grand Prix,206,Not Rain
+17,1997,Monaco Grand Prix,211,Rain
+18,1997,Spanish Grand Prix,212,Not Rain
+19,1997,Canadian Grand Prix,213,Not Rain
+20,1997,British Grand Prix,215,Not Rain
+21,1996,Monaco Grand Prix,229,Rain
+22,1996,Japanese Grand Prix,239,Not Rain
+23,1995,Canadian Grand Prix,245,Rain
+24,1994,San Marino Grand Prix,259,Not Rain
+25,1994,Japanese Grand Prix,271,Rain
+26,1993,Australian Grand Prix,288,Not Rain
+27,1992,French Grand Prix,296,Rain
+28,1991,United States Grand Prix,305,Not Rain
+29,1991,Mexican Grand Prix,310,Not Rain
+30,1991,Australian Grand Prix,320,Rain
+31,1990,Portuguese Grand Prix,333,Not Rain
+32,1989,San Marino Grand Prix,357,Not Rain
+33,1989,Monaco Grand Prix,358,Not Rain
+34,1989,Australian Grand Prix,371,Rain
+35,1988,Brazilian Grand Prix,372,Not Rain
+36,1985,Portuguese Grand Prix,421,Rain
+37,1985,British Grand Prix,427,Not Rain
+38,1984,Monaco Grand Prix,441,Rain
+39,1984,Dallas Grand Prix,444,Not Rain
+40,1984,British Grand Prix,445,Not Rain
+41,1981,Brazilian Grand Prix,484,Not Rain
+42,1981,Belgian Grand Prix,487,Rain
+43,1981,Canadian Grand Prix,496,Rain
+44,1978,Italian Grand Prix,540,Not Rain
+45,1975,Spanish Grand Prix,579,Not Rain
+46,1975,Monaco Grand Prix,580,Rain
+47,1975,Austrian Grand Prix,587,Rain
+48,1974,Brazilian Grand Prix,591,Not Rain
+49,1974,Spanish Grand Prix,593,Rain
+50,2012,Hungarian Grand Prix,870,Not Rain
+51,2012,Singapore Grand Prix,873,Not Rain
+52,2014,Australian Grand Prix,900,Rain
+53,2014,Chinese Grand Prix,903,Rain
+54,2014,Singapore Grand Prix,913,Not Rain
+55,2014,Japanese Grand Prix,914,Rain
+56,2015,Hungarian Grand Prix,936,Not Rain
+57,2015,Belgian Grand Prix,937,Rain
+58,2016,Australian Grand Prix,948,Rain
+59,2017,Australian Grand Prix,969,Not Rain
+60,2017,Russian Grand Prix,972,Not Rain
+61,2017,British Grand Prix,978,Rain
+62,2017,Singapore Grand Prix,982,Rain
+63,2018,Canadian Grand Prix,995,Not Rain
+64,2019,German Grand Prix,1020,Rain
+65,2019,Japanese Grand Prix,1026,Not Rain
+66,2021,Bahrain Grand Prix,1052,Not Rain
+67,2021,Belgian Grand Prix,1063,Rain
+68,2022,Monaco Grand Prix,1080,Rain
+69,2022,Singapore Grand Prix,1091,Rain
+70,2022,Japanese Grand Prix,1092,Not Rain
+71,2022,United States Grand Prix,1093,Not Rain
