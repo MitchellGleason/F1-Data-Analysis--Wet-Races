@@ -26,7 +26,7 @@ This, however, does not greatly affect the results of the analysis because I bel
 
 Currently, I foresee two main issues with this methodology that might affect the data. Firstly, just because the word 'wet' or 'rain' may appear on the grand prix wikipedia page, this does not necessarily mean that rainfall occurred while F1 cars were on track that weekend. Secondly, I believe that the more recent the grand prix is, the longer and more complex its wikipedia page is. This increases the likelihood that the words 'wet' or 'rain' appear on the page.
 
-I also ran a search through the same wikipedia pages to find races that have been stopped prematurely. I believe that every race that has been stopped prematurely as a section in its wikipedia page infobox which states 'Scheduled distance: ...' (as opposed to 'Distance'). Similar to the first search criteria, I used this phrase to find all races that have been stopped prematurely. I also searched for the words 'wet' or 'rain' on pages that contain 'Scheduled distance' to determine if the races cancellation was possibly due to weather.
+I also ran a search through the same wikipedia pages to find races that have been stopped prematurely. I believe that every race that has been stopped prematurely has a section in its wikipedia page infobox which states 'Scheduled distance: ...' (as opposed to 'Distance'). Similar to the first search criteria, I used this phrase to find all races that have been stopped prematurely. I also searched for the words 'wet' or 'rain' on pages that contain 'Scheduled distance' to determine if the races cancellation was possibly due to weather.
 
 ```
 for index, row in races.iterrows():
@@ -71,5 +71,5 @@ Figure 4 shows a heat map (with only two scales, 0 or 1) which only includes rac
 
 Figure 5 shows the number of 'wet weekend races' ran by drivers in descending order showing the top 40 of all F1 drivers.
 
-#To Do
+# To Do
 Analyze weather data history for all current track locations.
