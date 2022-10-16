@@ -1,47 +1,45 @@
-,Circuit,Location,Country
-0,Albert Park Circuit,Melbourne,Australia
-1,Autódromo Fernanda Pires da Silva[N 1],Estoril,Portugal
-2,Autódromo Hermanos Rodríguez,Mexico City,Mexico
-3,Autódromo Internacional do Algarve,Portimão,Portugal
-4,Autodromo Internazionale del Mugello[N 2],Scarperia e San Piero,Italy
-5,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy
-6,Autódromo José Carlos Pace,São Paulo,Brazil
-7,Autodromo Nazionale di Monza,Monza,Italy
-8,Bahrain International Circuit,Sakhir,Bahrain
-9,Baku City Circuit[N 3],Baku,Azerbaijan
-10,Buddh International Circuit,Greater Noida,India
-11,Chang International Circuit[N 4],Buriram,Thailand
-12,Circuit de Barcelona-Catalunya,Montmeló,Spain
-13,Circuit de la Comunitat Valenciana Ricardo Tormo,Valencia,Spain
-14,Circuit de Monaco,Monte Carlo,Monaco
-15,Circuit de Nevers Magny-Cours,Magny-Cours,France
-16,Circuit de Spa-Francorchamps,Stavelot,Belgium
-17,Circuit Gilles Villeneuve,Montreal,Canada
-18,Circuit of the Americas[N 5],Austin,United States
-19,Circuit Paul Ricard,Le Castellet,France
-20,Circuit Zandvoort,Zandvoort,Netherlands
-21,Circuito de Jerez – Ángel Nieto,Jerez de la Frontera,Spain
-22,Circuito di Fiorano,Fiorano Modenese,Italy
-23,Dubai Autodrome,Dubai,United Arab Emirates
-24,Fuji Speedway,Oyama,Japan
-25,Hockenheimring,Hockenheim,Germany
-26,Hungaroring,Mogyoród,Hungary
-27,Igora Drive,Novozhilovo,Russia
-28,Indianapolis Motor Speedway[N 6],Speedway,United States
-29,Intercity Istanbul Park,Tuzla,Turkey
-30,Jeddah Corniche Circuit,Jeddah,Saudi Arabia
-31,Korea International Circuit,Yeongam,South Korea
-32,Kuwait Motor Town[N 8],Ahmadi Governorate,Kuwait
-33,Losail International Circuit,Lusail,Qatar
-34,Marina Bay Street Circuit[N 9],Singapore,Singapore
-35,Miami International Autodrome,Miami Gardens,United States
-36,Moscow Raceway,Volokolamsk,Russia
-37,MotorLand Aragón,Alcañiz,Spain
-38,Nürburgring,Nürburg,Germany
-39,Red Bull Ring,Spielberg,Austria
-40,Sepang International Circuit[N 10],Selangor,Malaysia
-41,Shanghai International Circuit[N 11],Shanghai,China
-42,Silverstone Circuit,Silverstone,United Kingdom
-43,Sochi Autodrom,Sochi,Russia
-44,Suzuka International Racing Course,Suzuka,Japan
-45,Yas Marina Circuit,Abu Dhabi,United Arab Emirates
+,Circuit,Location,Country,Lat,Lng
+0,Albert Park Circuit,Melbourne,Australia,-37.84972,144.96833
+1,Autódromo Fernanda Pires da Silva,Estoril,Portugal,38.75083,-9.39417
+2,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.40611,-99.0925
+3,Autódromo Internacional do Algarve,Portimão,Portugal,37.232,-8.632
+4,Autodromo Internazionale del Mugello,Scarperia e San Piero,Italy,43.9975,11.37194
+5,Autodromo Internazionale Enzo e Dino Ferrari,Imola,Italy,44.34111,11.71333
+6,Autódromo José Carlos Pace,São Paulo,Brazil,-23.70111,-46.69722
+7,Autodromo Nazionale di Monza,Monza,Italy,45.62056,9.28944
+8,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.51056
+9,Baku City Circuit,Baku,Azerbaijan,40.3725,49.85333
+10,Buddh International Circuit,Greater Noida,India,28.35056,77.535
+11,Chang International Circuit,Buriram,Thailand,14.962844,103.0849984
+12,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111
+14,Circuit de Monaco,Monte Carlo,Monaco,43.73472,7.42056
+15,Circuit de Nevers Magny-Cours,Magny-Cours,France,46.86333,3.16333
+16,Circuit de Spa-Francorchamps,Stavelot,Belgium,50.43722,5.97139
+17,Circuit Gilles Villeneuve,Montreal,Canada,45.50056,-73.5225
+18,Circuit of the Americas,Austin,United States,30.13278,-97.64111
+19,Circuit Paul Ricard,Le Castellet,France,43.25056,5.79167
+20,Circuit Zandvoort,Zandvoort,Netherlands,52.3888194,4.5409222
+21,Circuito de Jerez – Ángel Nieto,Jerez de la Frontera,Spain,36.70833,-6.03417
+23,Dubai Autodrome,Dubai,United Arab Emirates,25.050633,55.239129
+24,Fuji Speedway,Oyama,Japan,35.37167,138.92667
+25,Hockenheimring,Hockenheim,Germany,49.32778,8.56583
+26,Hungaroring,Mogyoród,Hungary,47.58222,19.25111
+27,Igora Drive,Novozhilovo,Russia,60.51333,30.1975
+28,Indianapolis Motor Speedway,Speedway,United States,39.79833,-86.23278
+29,Intercity Istanbul Park,Tuzla,Turkey,40.95167,29.405
+30,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.63194,39.10444
+31,Korea International Circuit,Yeongam,South Korea,34.733,126.417
+32,Kuwait Motor Town,Ahmadi Governorate,Kuwait,28.93,48.14167
+33,Losail International Circuit,Lusail,Qatar,25.49,51.45417
+34,Marina Bay Street Circuit,Singapore,Singapore,1.2915306,103.86385
+35,Miami International Autodrome,Miami Gardens,United States,25.95806,-80.23889
+36,Moscow Raceway,Volokolamsk,Russia,55.996056,36.268361
+37,MotorLand Aragón,Alcañiz,Spain,41.07833,-0.2075
+38,Nürburgring,Nürburg,Germany,50.33556,6.9475
+39,Red Bull Ring,Spielberg,Austria,47.21972,14.76472
+40,Sepang International Circuit,Selangor,Malaysia,2.76056,101.7375
+41,Shanghai International Circuit,Shanghai,China,31.33889,121.21972
+42,Silverstone Circuit,Silverstone,United Kingdom,52.07861,-1.01694
+43,Sochi Autodrom,Sochi,Russia,43.410278,39.968271
+44,Suzuka International Racing Course,Suzuka,Japan,34.84306,136.54056
+45,Yas Marina Circuit,Abu Dhabi,United Arab Emirates,24.46722,54.60306
