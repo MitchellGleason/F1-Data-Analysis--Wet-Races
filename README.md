@@ -51,25 +51,30 @@ for index, row in races.iterrows():
 
 Figure 1 shows the number of grand prix wikipedia pages that contain the word 'wet' or 'rain' per year. While there may be some errors in this methodology (please inform me if there is), the general trend in this data is very clear: F1 experiences more wet weather as time progresses.
 
-![Fig. 2 - Short Races per Year](/Figures/Fig.%202%20-%20Short%20Races%20per%20Year.png)
-<sup>Fig. 2 - Short Races per Year</sup>
+![Fig. 2 - Wet Races Percentage per Year](/Figures/Fig.%202%20-%20Wet%20Races%20Percentage%20per%20Year.png)
+<sup>Fig. 2 - Wet Races Percentage per Year</sup>
 
-Figure 2 shows the number of grand prix wikipedia pages that contain the words 'Scheduled distance' per year. As described in the methodology, these are the number of races per year that did not reach their scheduled race distance due to any reason (not only because of weather).
+Figure 2 shows Figure 1 data as a percentage of the total races ran per year.
 
-![Fig. 3 - Wet & Short Races per Year](/Figures/Fig.%203%20-%20Wet%20%26%20Short%20Races%20per%20Year.png)
-<sup>Fig. 3 - Wet & Short Races per Year</sup>
+![Fig. 3 - Short Races per Year](/Figures/Fig.%203%20-%20Short%20Races%20per%20Year.png)
+<sup>Fig. 3 - Short Races per Year</sup>
 
-Figure 3 combines the previous two figures.
+Figure 3 shows the number of grand prix wikipedia pages that contain the words 'Scheduled distance' per year. As described in the methodology, these are the number of races per year that did not reach their scheduled race distance due to any reason (not only because of weather).
 
-![Fig. 4 - Recent Wet Races Heat Map](/Figures/Fig.%204%20-%20Recent%20Wet%20Races%20Heat%20Map.png)
-<sup>Fig. 4 - Recent Wet Races Heat Map</sup>
+![Fig. 4 - Wet & Short Races per Year](/Figures/Fig.%204%20-%20Wet%20%26%20Short%20Races%20per%20Year.png)
+<sup>Fig. 4 - Wet & Short Races per Year</sup>
 
-Figure 4 shows a heat map (with only two scales, 0 or 1) which only includes races that have been in active use since the year 2000 (important notes: firstly, this only includes the grand prix name, not necessarily the name of the track(s), secondly, this includes the total history of races that have been held since 2000 (ie. the Belgian Grand Prix has been held since 2000 and therefore all of its history has been shown)).
+Figure 4 combines the previous two figures.
 
-![Fig. 5 - Number of Wet Races per Driver](/Figures/Fig.%205%20-%20Number%20of%20Wet%20Races%20per%20Driver.png)
-<sup>Fig. 5 - Number of Wet Races per Driver</sup>
+![Fig. 5 - Recent Wet Races Heat Map](/Figures/Fig.%205%20-%20Recent%20Wet%20Races%20Heat%20Map.png)
+<sup>Fig. 5 - Recent Wet Races Heat Map</sup>
 
-Figure 5 shows the number of 'wet weekend races' ran by drivers in descending order showing the top 40 of all F1 drivers.
+Figure 5 shows a heat map (with only two scales, 0 or 1) which only includes races that have been in active use since the year 2000 (important notes: firstly, this only includes the grand prix name, not necessarily the name of the track(s), secondly, this includes the total history of races that have been held since 2000 (ie. the Belgian Grand Prix has been held since 2000 and therefore all of its history has been shown)).
+
+![Fig. 6 - Number of Wet Races per Driver](/Figures/Fig.%206%20-%20Number%20of%20Wet%20Races%20per%20Driver.png)
+<sup>Fig. 6 - Number of Wet Races per Driver</sup>
+
+Figure 6 shows the number of 'wet weekend races' ran by drivers in descending order showing the top 40 of all F1 drivers.
 
 # To Do
 Analyze weather data history for all current track locations.
