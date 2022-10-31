@@ -24,7 +24,7 @@
 22,1952,Swiss Grand Prix,817,Sunny,Not Wet
 23,1953,Swiss Grand Prix,815,"Sunny, mild, dry",Not Wet
 24,1953,German Grand Prix,814,"Sunny, mild, dry",Not Wet
-25,1953,British Grand Prix,813,"Overcast, showers",Not Wet
+25,1953,British Grand Prix,813,"Overcast, showers",Wet
 26,1953,French Grand Prix,812,"Hot, dry",Not Wet
 27,1953,Belgian Grand Prix,811,"Hot, dry",Not Wet
 28,1953,Dutch Grand Prix,810,"Sunny, mild, dry",Not Wet
@@ -162,7 +162,7 @@
 160,1967,British Grand Prix,684,No weather description,Not Wet
 161,1968,Monaco Grand Prix,669,"Sunny, Mild, Dry",Not Wet
 162,1968,Belgian Grand Prix,670,"Overcast, Dry",Not Wet
-163,1968,Dutch Grand Prix,671,Showers,Not Wet
+163,1968,Dutch Grand Prix,671,Showers,Wet
 164,1968,French Grand Prix,672,Wet,Wet
 165,1968,Italian Grand Prix,675,"Hot, Dry",Not Wet
 166,1968,German Grand Prix,674,"Hazy, Wet",Wet
@@ -211,7 +211,7 @@
 209,1972,Monaco Grand Prix,623,Wet,Wet
 210,1972,South African Grand Prix,621,"Sunny, Hot, Dry",Not Wet
 211,1972,Canadian Grand Prix,630,"Mild with temperatures approaching 22.8&#160;°C (73.0&#160;°F); wind speeds up to 12 kilometres per hour (7.5&#160;mph)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Not Wet
-212,1972,United States Grand Prix,631,"Sunny at start, brief showers late",Not Wet
+212,1972,United States Grand Prix,631,"Sunny at start, brief showers late",Wet
 213,1972,Italian Grand Prix,629,Dry and sunny,Not Wet
 214,1972,Austrian Grand Prix,628,"Sunny, hot",Not Wet
 215,1972,Argentine Grand Prix,620,No weather description,Not Wet
@@ -238,7 +238,7 @@
 236,1974,Argentine Grand Prix,590,Hot and sunny,Not Wet
 237,1974,United States Grand Prix,604,"Clear, warm",Not Wet
 238,1974,Canadian Grand Prix,603,"Cold with temperatures approaching 13.3&#160;°C (55.9&#160;°F); wind speeds up to 15 kilometres per hour (9.3&#160;mph)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Not Wet
-239,1974,German Grand Prix,600,"Overcast, showers",Not Wet
+239,1974,German Grand Prix,600,"Overcast, showers",Wet
 240,1974,Austrian Grand Prix,601,No weather description,Not Wet
 241,1974,British Grand Prix,599,No weather description,Not Wet
 242,1974,Brazilian Grand Prix,591,"Cloudy and dry in the first phase, then seasonal monsoon later.",Wet
@@ -546,7 +546,7 @@
 544,1993,San Marino Grand Prix,276,"Wet at start, dry later",Wet
 545,1993,European Grand Prix,275,"Very cold, rain with dry spells",Wet
 546,1993,Brazilian Grand Prix,274,Dry first then torrential rain for a short period; later drying and staying dry for the rest of the race,Wet
-547,1993,South African Grand Prix,273,"Very hot and humid, with torrential thunderstorms. Air temp: 33&#160;°C (91&#160;°F)",Not Wet
+547,1993,South African Grand Prix,273,"Very hot and humid, with torrential thunderstorms. Air temp: 33&#160;°C (91&#160;°F)",Wet
 548,1994,Spanish Grand Prix,261,Sunny,Not Wet
 549,1994,Brazilian Grand Prix,257,Sunny,Not Wet
 550,1994,Pacific Grand Prix,258,Sunny,Not Wet
@@ -570,7 +570,7 @@
 568,1995,Pacific Grand Prix,254,"Cloudy, dry",Not Wet
 569,1995,Belgian Grand Prix,250,"Cloudy, then heavy rain",Wet
 570,1995,European Grand Prix,253,"Rain, later dried out, air temperature 11 °C (52 °F)",Wet
-571,1995,French Grand Prix,246,"Cloudy, light drizzle at times",Not Wet
+571,1995,French Grand Prix,246,"Cloudy, light drizzle at times",Wet
 572,1995,Italian Grand Prix,251,Sunny,Not Wet
 573,1995,German Grand Prix,248,"Sunny, 28 °C (82 °F)",Not Wet
 574,1995,Canadian Grand Prix,245,"Cloudy at start, sunny later with temperatures reaching up to 24.3 °C (75.7 °F)Wind speeds up to 8 km/h (5.0 mph)[1]",Not Wet
@@ -594,7 +594,7 @@
 592,1996,Canadian Grand Prix,231,Mostly sunny and warm with temperatures approaching 26 °C (79 °F)[1],Not Wet
 593,1996,Belgian Grand Prix,236,Overcast and dry with temperatures reaching up to 17 °C (63 °F)[2],Not Wet
 594,1996,British Grand Prix,233,Warm and sunny with temperatures reaching up to 25 °C (77 °F)[1],Not Wet
-595,1996,Brazilian Grand Prix,225,"Thunderstorm, then drying with temperatures reaching up to 24&#160;°C (75&#160;°F)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Not Wet
+595,1996,Brazilian Grand Prix,225,"Thunderstorm, then drying with temperatures reaching up to 24&#160;°C (75&#160;°F)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Wet
 596,1996,Australian Grand Prix,224,"Dry with temperatures reaching up to 23&#160;°C (73&#160;°F)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Not Wet
 597,1997,Australian Grand Prix,207,"Partly Cloudy, Dry",Not Wet
 598,1997,Argentine Grand Prix,209,"Partially cloudy and dry, with temperatures reaching up to 21 °C (70 °F)[1]",Not Wet
@@ -687,7 +687,7 @@
 685,2002,Australian Grand Prix,124,"Cloudy at start, clearing to sunny skies.",Not Wet
 686,2002,Malaysian Grand Prix,125,"Partially cloudy, hot, and dry",Not Wet
 687,2002,Brazilian Grand Prix,126,"Clear, Air Temp: 30°C",Not Wet
-688,2002,San Marino Grand Prix,127,"Scattered thunderstorms, but remaining dry. Air Temp: 18°C",Not Wet
+688,2002,San Marino Grand Prix,127,"Scattered thunderstorms, but remaining dry. Air Temp: 18°C",Wet
 689,2002,Spanish Grand Prix,128,"Clear, Air Temp: 20°C",Not Wet
 690,2002,Monaco Grand Prix,130,Fine; air temperature 22&#160;°C (72&#160;°F),Not Wet
 691,2002,Canadian Grand Prix,131,"Mostly fine and humid with temperatures reaching a maximum of 24.1&#160;°C (75.4&#160;°F)<br />Wind speeds up to 8&#160;km/h (5.0&#160;mph)<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup>",Not Wet
@@ -700,11 +700,11 @@
 698,2003,Malaysian Grand Prix,109,"Fine, air temperature 34°C (93°F)",Not Wet
 699,2003,Brazilian Grand Prix,110,Rainy: 20 °C (68 °F),Wet
 700,2003,San Marino Grand Prix,111,Mostly cloudy with maximum ambient temperatures reaching 13 degrees during the day.,Not Wet
-701,2003,Austrian Grand Prix,113,Mostly cloudy with isolated showers in the area,Not Wet
+701,2003,Austrian Grand Prix,113,Mostly cloudy with isolated showers in the area,Wet
 702,2003,Australian Grand Prix,108,"Damp at beginning, dry later, cloudy, mild",Not Wet
 703,2003,Spanish Grand Prix,112,Clear,Not Wet
 704,2003,European Grand Prix,116,Mostly cloudy with maximum ambient temperatures reaching 25 degrees celsius during the day.,Not Wet
-705,2003,United States Grand Prix,122,"Scattered showers with temperatures up to 20.6&#160;°C (69.1&#160;°F);<br />Wind speeds up to 25.93&#160;km/h (16.11&#160;mph)<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup>",Not Wet
+705,2003,United States Grand Prix,122,"Scattered showers with temperatures up to 20.6&#160;°C (69.1&#160;°F);<br />Wind speeds up to 25.93&#160;km/h (16.11&#160;mph)<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup>",Wet
 706,2003,Japanese Grand Prix,123,"Cloudy, Air: 22 °C (72 °F), Track 25 °C (77 °F)",Not Wet
 707,2003,Italian Grand Prix,121,Sunny,Not Wet
 708,2003,Hungarian Grand Prix,120,"Warm, dry and sunny, 28 °C (82 °F)",Not Wet
@@ -736,7 +736,7 @@
 734,2005,Italian Grand Prix,85,Sunny,Not Wet
 735,2005,Turkish Grand Prix,84,Sunny; 30°C Air; 45°C Track,Not Wet
 736,2005,Hungarian Grand Prix,83,"Sunny, Air: 34 °C (93 °F), Track 45 °C (113 °F)",Not Wet
-737,2005,German Grand Prix,82,"Cloudy with drizzle, but staying dry during the race. Air temp: 24°C.",Not Wet
+737,2005,German Grand Prix,82,"Cloudy with drizzle, but staying dry during the race. Air temp: 24°C.",Wet
 738,2005,British Grand Prix,81,"Sunny, Air: 27 °C (81 °F), Track 47 °C (117 °F)",Not Wet
 739,2005,United States Grand Prix,79,"Cloudy, temperatures up to 25.0 °C (77.0 °F); wind speeds up to 17.9 km/h (11.1 mph)[4]",Not Wet
 740,2005,Canadian Grand Prix,78,Cloudy and hot with temperatures approaching 32.5 °C (90.5 °F)Wind speeds up to 5.1 km/h (3.2 mph)[1]Track 43–47 °C (109–117 °F),Not Wet
@@ -872,7 +872,7 @@
 870,2012,European Grand Prix,867,Fine and Dry[2]Air Temp 27 °C (81 °F)[2]Track Temp 45 °C (113 °F)[2],Not Wet
 871,2012,Australian Grand Prix,860,Fine[1]Air Temp 22 °C (72 °F)[1]Track Temp 30 °C (86 °F) dropping to 22 °C (72 °F)[1],Not Wet
 872,2012,Canadian Grand Prix,866,"Fine, dry and warm;[2]with air temperature approaching 29 °C (84 °F)[2]Track Temp 45 °C (113 °F) dropping to 39 °C (102 °F)[2]",Not Wet
-873,2012,Monaco Grand Prix,865,"Fine and Dry, showers threatening at end[2]Air Temp 21 °C (70 °F)[2]Track Temp 38 °C (100 °F) dropping to 31 °C (88 °F)[2]",Not Wet
+873,2012,Monaco Grand Prix,865,"Fine and Dry, showers threatening at end[2]Air Temp 21 °C (70 °F)[2]Track Temp 38 °C (100 °F) dropping to 31 °C (88 °F)[2]",Wet
 874,2012,Malaysian Grand Prix,861,Heavy rain clearing to cloudy and dry[2]Air Temp 26 °C (79 °F)[2] Track Temp 29 °C (84 °F) dropping to 24 °C (75 °F) [2],Wet
 875,2012,Chinese Grand Prix,862,Overcast but Dry[1]Air Temp 22 °C (72 °F)[1]Track Temp 23 °C (73 °F)[1],Not Wet
 876,2012,Belgian Grand Prix,871,Fine and Dry[4]Air Temp 23 °C (73 °F)[4]Track Temp 33 °C (91 °F)[4],Not Wet
